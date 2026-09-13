@@ -1,0 +1,7 @@
+{
+  "name": "EstateIQ",
+  "description": "Offline-first personal finance and estate/BNB property manager with AES-256 encrypted transactions, monthly expenditure reports, photo management, notifications, biometric auth, and cross-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
